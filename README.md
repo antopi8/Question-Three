@@ -1,10 +1,8 @@
 # Reach Application
-A summary of projects for question 3, to showcase past projects.
+A summary of projects to showcase past projects.
 
 ## 👀 Preview
 
-Home Page (Contains all the Decks)
-![Image of HomePage](https://i.gyazo.com/236c2d6dcf45395915b32f01a62dc209.png)
 Home Page (Contains cards with 5 projects)
 
 - Blueberry Magic Game
